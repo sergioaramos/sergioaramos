@@ -19,20 +19,23 @@
 <br><br>
 
 - :office: I'm a Systems Administrator and Full-stack Developer.
-- :computer: I develop solutions using Python, Node, FastAPI, OCR tools and new emerging technologies.
+- :computer: I develop solutions using Python, Node.js, FastAPI, OCR tools and modern web technologies.
+- 🎆: Currently building with React for frontend experiences and exploring AI agents and cloud-native tools.
+- 🤖 Interested in emerging tech such as RPA (Power Automate), generative AI, and multi-agent systems.
 - :chart_with_upwards_trend: Passionate about automation, data extraction and integration.
-- :rocket: Currently exploring AI tools and cloud deployment.
+- :rocket: Always learning and experimenting with new tools to solve real-world problems.
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> Tech & Tools I'm Exploring
 
 <p align="center">
-  <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
-	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
-	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
-	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
+  <a href="https://github.com/sergioaramos"><img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://learn.microsoft.com/en-us/power-automate/"><img src="https://img.icons8.com/color/48/000000/microsoft-power-automate.png" alt="Power Automate"/></a>
+  <a href="https://deepseek.com/"><img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI Exploration"/></a>
+  <a href="https://platform.openai.com/"><img src="https://img.icons8.com/fluency/48/000000/openai.png" alt="OpenAI"/></a>
+  <a href="https://huggingface.co/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-huggingface-a-community-driven-open-source-platform-for-machine-learning-logo-color-tal-revivo.png" alt="Hugging Face"/></a>
+  <a href="https://www.framer.com/motion/"><img src="https://img.icons8.com/color/48/null/framer.png" alt="Framer Motion (Frontend Animation)"/></a>
+  <a href="https://codepen.io/sergioaramos"><img src="https://img.icons8.com/ios-filled/50/000000/codepen.png" alt="Frontend Experiments"/></a>
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
