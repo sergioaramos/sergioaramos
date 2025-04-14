@@ -29,13 +29,27 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> Tech & Tools I'm Exploring
 
 <p align="center">
-  <a href="https://github.com/sergioaramos"><img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub"/></a>
-  <a href="https://learn.microsoft.com/en-us/power-automate/"><img src="https://img.icons8.com/color/48/000000/microsoft-power-automate.png" alt="Power Automate"/></a>
-  <a href="https://deepseek.com/"><img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="AI Exploration"/></a>
-  <a href="https://platform.openai.com/"><img src="https://img.icons8.com/fluency/48/000000/openai.png" alt="OpenAI"/></a>
-  <a href="https://huggingface.co/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-huggingface-a-community-driven-open-source-platform-for-machine-learning-logo-color-tal-revivo.png" alt="Hugging Face"/></a>
-  <a href="https://www.framer.com/motion/"><img src="https://img.icons8.com/color/48/null/framer.png" alt="Framer Motion (Frontend Animation)"/></a>
-  <a href="https://codepen.io/sergioaramos"><img src="https://img.icons8.com/ios-filled/50/000000/codepen.png" alt="Frontend Experiments"/></a>
+  <a href="https://github.com/sergioaramos">
+    <img src="https://img.icons8.com/ios-glyphs/50/github.png" alt="GitHub" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/power-automate/">
+    <img src="https://img.icons8.com/color/48/microsoft-power-automate.png" alt="Power Automate" />
+  </a>
+  <a href="https://deepseek.com/">
+    <img src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="AI Exploration" />
+  </a>
+  <a href="https://platform.openai.com/">
+    <img src="https://img.icons8.com/fluency/48/openai.png" alt="OpenAI" />
+  </a>
+  <a href="https://huggingface.co/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="Hugging Face" width="48" />
+  </a>
+  <a href="https://www.framer.com/motion/">
+    <img src="https://img.icons8.com/color/48/framer-logo.png" alt="Framer Motion" />
+  </a>
+  <a href="https://codepen.io/sergioaramos">
+    <img src="https://img.icons8.com/ios-filled/50/codepen.png" alt="CodePen" />
+  </a>
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
