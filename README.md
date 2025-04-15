@@ -26,40 +26,6 @@
 - :rocket: Always learning and experimenting with new tools to solve real-world problems.
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> Tech & Tools I'm Exploring
-
-<p align="center">
-  <!-- Herramientas Tradicionales -->
-  <a href="https://nodejs.org/">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node.js" height="40" />
-  </a>
-  <a href="https://reactjs.org/">
-    <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" alt="React" height="40" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKP6jDmuE6gEWcm4e6rArHWA2uRfDhigVerg&s" alt="Python" height="40" />
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" alt="MySQL" height="40" />
-  </a>
-
-  <!-- Herramientas Emergentes -->
-  <a href="https://openai.com/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR71T8bAv3A6WvYQj7YYkeoayGQplecZpFOw&s" alt="OpenAI" height="40" />
-  </a>
-  <a href="https://deepseek.com/">
-    <img src="https://images.seeklogo.com/logo-png/61/1/deepseek-ai-logo-png_seeklogo-611415.png" alt="DeepSeek AI" height="40" />
-  </a>
-
-  <!-- Automatización -->
-  <a href="https://learn.microsoft.com/en-us/power-automate/">
-    <img src="https://images.seeklogo.com/logo-png/52/1/microsoft-power-automate-logo-png_seeklogo-522770.png" alt="Power Automate" height="40" />
-  </a>
-  <a href="https://playwright.dev/">
-    <img src="https://images.seeklogo.com/logo-png/43/1/playwright-logo-png_seeklogo-435674.png" alt="Playwright" height="40" />
-  </a>
-</p>
-
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:sergioramos.sr758@gmail.com@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
