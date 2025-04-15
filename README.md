@@ -115,7 +115,7 @@
 </p>
 
 
-### <picture> <img src = "https://img.icons8.com/color/48/framework.png" width = 50px>  </picture> Frameworks & CMS
+### <picture> <img src = "https://img.icons8.com/color/48/server.png" width = 50px>  </picture> Frameworks & CMS
 <p align="center">
   &emsp;
   <a href="https://laravel.com/" target="_blank">
