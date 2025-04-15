@@ -94,11 +94,15 @@
 
 
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
   &emsp;
   <a href="https://reactjs.org/" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black">
+  </a>
+  &emsp;
+  <a href="https://vitejs.dev/" target="_blank">
+    <img alt="Vite" src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.w3.org/html/" target="_blank">
@@ -122,6 +126,18 @@
     <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=wordpress&logoColor=white">
   </a>
   &emsp;
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-%23000000.svg?style=plastic&logo=flask&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=plastic&logo=fastapi&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://expressjs.com/" target="_blank">
+    <img alt="Express" src="https://img.shields.io/badge/Express-%23000000.svg?style=plastic&logo=express&logoColor=white">
+  </a>
+  &emsp;
   <a href="https://www.djangoproject.com/" target="_blank">
     <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white">
   </a>
@@ -132,6 +148,39 @@
   &emsp;
   <a href="https://www.mysql.com/" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.elastic.co/elasticsearch/" target="_blank">
+    <img alt="ElasticSearch" src="https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=plastic&logo=elasticsearch&logoColor=white">
+  </a>
+</p>
+
+### <picture> <img src="https://img.icons8.com/color/48/cloud.png" width=50px> </picture> Cloud Services
+
+<p align="center">
+  &emsp;
+  <a href="https://cloud.google.com/run" target="_blank">
+    <img alt="Cloud Run" src="https://img.shields.io/badge/Cloud%20Run-%230081CB.svg?style=plastic&logo=googlecloud&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://aws.amazon.com/lambda/" target="_blank">
+    <img alt="AWS Lambda" src="https://img.shields.io/badge/Lambda-%23FF9900.svg?style=plastic&logo=amazonaws&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://aws.amazon.com/rds/" target="_blank">
+    <img alt="Amazon RDS" src="https://img.shields.io/badge/RDS-%23232F3E.svg?style=plastic&logo=amazonaws&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://aws.amazon.com/ec2/" target="_blank">
+    <img alt="Amazon EC2" src="https://img.shields.io/badge/EC2-%23FF9900.svg?style=plastic&logo=amazonaws&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://aws.amazon.com/api-gateway/" target="_blank">
+    <img alt="API Gateway" src="https://img.shields.io/badge/API%20Gateway-%23232F3E.svg?style=plastic&logo=amazonaws&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://aws.amazon.com/elasticloadbalancing/" target="_blank">
+    <img alt="Load Balancer" src="https://img.shields.io/badge/Load%20Balancer-%23232F3E.svg?style=plastic&logo=amazonaws&logoColor=white">
   </a>
 </p>
 
@@ -147,8 +196,16 @@
     <img alt="Mistral AI" src="https://img.shields.io/badge/Mistral%20AI-%231E90FF.svg?style=plastic&logo=artstation&logoColor=white">
   </a>
   &emsp;
-  <a href="https://deepseek.com/" target="_blank">
-    <img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-%23228BE6.svg?style=plastic&logo=ai&logoColor=white">
+  <a href="#">
+    <img alt="Cloude" src="https://img.shields.io/badge/Cloude-%2300BFA6.svg?style=plastic">
+  </a>
+  &emsp;
+  <a href="#">
+    <img alt="MCP" src="https://img.shields.io/badge/MCP%20(Model%20Context%20Protocol)-%23FF69B4.svg?style=plastic">
+  </a>
+  &emsp;
+  <a href="#">
+    <img alt="AI Agents" src="https://img.shields.io/badge/AI%20Agents-%2328a745.svg?style=plastic">
   </a>
 </p>
 
@@ -158,32 +215,31 @@
  
 <p align="center">
   &emsp;
-  <a href="https://developers.google.com/gmail/api" target="_blank">
-    <img alt="Gmail API" src="https://img.shields.io/badge/Gmail%20API-%23D14836.svg?style=plastic&logo=gmail&logoColor=white">
+  <a href="https://developers.google.com/" target="_blank">
+    <img alt="Google APIs" src="https://img.shields.io/badge/Google%20APIs-%234285F4.svg?style=plastic&logo=google&logoColor=white">
   </a>
   &emsp;
-  <a href="https://learn.microsoft.com/en-us/graph/" target="_blank">
-    <img alt="Microsoft Graph API" src="https://img.shields.io/badge/Microsoft%20Graph-%230078D4.svg?style=plastic&logo=microsoft&logoColor=white">
+  <a href="https://developers.google.com/identity/protocols/oauth2" target="_blank">
+    <img alt="OAuth 2.0" src="https://img.shields.io/badge/OAuth%202.0-%23232F3E.svg?style=plastic&logo=oauth&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://cloud.google.com/iam/docs/creating-managing-service-accounts" target="_blank">
+    <img alt="Service Account Auth" src="https://img.shields.io/badge/Service%20Account%20Auth-%23117AC9.svg?style=plastic">
   </a>
 </p>
 
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-</p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Automation Tools
  
 <p align="center">
+  &emsp;
+  <a href="https://www.automationanywhere.com/" target="_blank">
+    <img alt="Automation Anywhere" src="https://img.shields.io/badge/Automation%20Anywhere-%23FF6C37.svg?style=plastic">
+  </a>
+  &emsp;
+  <a href="https://robocorp.com/" target="_blank">
+    <img alt="Robocorp" src="https://img.shields.io/badge/Robocorp-%231C1C1C.svg?style=plastic">
+  </a>
   &emsp;
   <a href="https://powerautomate.microsoft.com/" target="_blank">
     <img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate-%230078D7.svg?style=plastic&logo=microsoft&logoColor=white">
@@ -191,10 +247,6 @@
   &emsp;
   <a href="https://playwright.dev/" target="_blank">
     <img alt="Playwright" src="https://img.shields.io/badge/Playwright-%23A040A0.svg?style=plastic&logo=playwright&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://developers.google.com/sheets/api" target="_blank">
-    <img alt="Google Sheets API" src="https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=plastic&logo=google-sheets&logoColor=white">
   </a>
 </p>
 
