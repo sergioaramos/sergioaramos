@@ -48,15 +48,15 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR71T8bAv3A6WvYQj7YYkeoayGQplecZpFOw&s" alt="OpenAI" height="40" />
   </a>
   <a href="https://deepseek.com/">
-    <img src="https://gimgs2.nohat.cc/thumb/f/350/deepseek-logo-png-transparent-background--3fd0d86bd1.jpg" alt="DeepSeek AI" height="40" />
+    <img src="https://images.seeklogo.com/logo-png/61/1/deepseek-ai-logo-png_seeklogo-611415.png" alt="DeepSeek AI" height="40" />
   </a>
 
   <!-- Automatización -->
   <a href="https://learn.microsoft.com/en-us/power-automate/">
-    <img src="https://seeklogo.com/images/M/microsoft-power-automate-logo-522770.png" alt="Power Automate" height="40" />
+    <img src="https://images.seeklogo.com/logo-png/52/1/microsoft-power-automate-logo-png_seeklogo-522770.png" alt="Power Automate" height="40" />
   </a>
   <a href="https://playwright.dev/">
-    <img src="https://seeklogo.com/images/P/playwright-logo-435674.png" alt="Playwright" height="40" />
+    <img src="https://images.seeklogo.com/logo-png/43/1/playwright-logo-png_seeklogo-435674.png" alt="Playwright" height="40" />
   </a>
 </p>
 
