@@ -47,8 +47,8 @@
   <a href="https://www.framer.com/motion/">
     <img src="https://img.icons8.com/color/48/framer-logo.png" alt="Framer Motion" />
   </a>
-  <a href="https://codepen.io/sergioaramos">
-    <img src="https://img.icons8.com/ios-filled/50/codepen.png" alt="CodePen" />
+  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RWHH3C5Tbkr24iXXCWuVQq7HsVSG6560Mg&s">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RWHH3C5Tbkr24iXXCWuVQq7HsVSG6560Mg&s" alt="Hugging Face" />
   </a>
 </p>
 
