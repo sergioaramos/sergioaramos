@@ -281,8 +281,14 @@
 	  <a href="https://github.com/sergioaramos/Robocorp-level-II">
 	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergioaramos&repo=Robocorp-level-II&theme=tokyonight" alt="Robocorp-level-II" />
 	  </a>
-	  <a href="https://github.com/sergioaramos/sergioaramos">
-	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergioaramos&repo=sergioaramos&theme=tokyonight" alt="sergioaramos" />
+	  <a href="https://github.com/sergioaramos/mistral-doc-extractor">
+	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergioaramos&repo=mistral-doc-extractor&theme=tokyonight" alt="sergioaramos" />
+	  </a>
+	<a href="https://github.com/sergioaramos/egg-counter-webapp">
+	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergioaramos&repo=egg-counter-webapp&theme=tokyonight" alt="sergioaramos" />
+	  </a>
+	<a href="https://github.com/sergioaramos/doc-search-microservices">
+	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergioaramos&repo=doc-search-microservices&theme=tokyonight" alt="sergioaramos" />
 	  </a>
 	</p>
 
