@@ -94,7 +94,7 @@
 
 
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "https://img.icons8.com/color/48/workflow.png" width = 50px>  </picture> Frontend Development
 <p align="center"> 
   &emsp;
   <a href="https://reactjs.org/" target="_blank">
