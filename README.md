@@ -115,7 +115,7 @@
 </p>
 
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frameworks & CMS
+### <picture> <img src = "https://img.icons8.com/color/48/framework.png" width = 50px>  </picture> Frameworks & CMS
 <p align="center">
   &emsp;
   <a href="https://laravel.com/" target="_blank">
@@ -185,7 +185,7 @@
 </p>
 
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> AI & Automation
+### <picture> <img src = "https://img.icons8.com/color/48/artificial-intelligence.png" width = 50px>  </picture> AI & Automation
 <p align="center">
   &emsp;
   <a href="https://platform.openai.com/" target="_blank">
