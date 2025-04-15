@@ -31,27 +31,24 @@
 <p align="center">
   <!-- Herramientas Tradicionales -->
   <a href="https://nodejs.org/">
-    <img src="https://freebiesupply.com/wp-content/uploads/2020/11/node-js-logo.png" alt="Node.js" height="40" />
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node.js" height="40" />
   </a>
   <a href="https://reactjs.org/">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="React" height="40" />
+    <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" alt="React" height="40" />
   </a>
   <a href="https://www.python.org/">
-    <img src="https://www.stickpng.com/assets/images/5848152fcef1014c0b5e4967.png" alt="Python" height="40" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKP6jDmuE6gEWcm4e6rArHWA2uRfDhigVerg&s" alt="Python" height="40" />
   </a>
   <a href="https://www.mysql.com/">
-    <img src="https://www.stickpng.com/assets/images/58481021cef1014c0b5e4923.png" alt="MySQL" height="40" />
+    <img src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png" alt="MySQL" height="40" />
   </a>
 
   <!-- Herramientas Emergentes -->
   <a href="https://openai.com/">
-    <img src="https://www.stickpng.com/assets/images/63c5e0f2b6f1d80004c5e0f2.png" alt="OpenAI" height="40" />
-  </a>
-  <a href="https://mistral.ai/">
-    <img src="https://seeklogo.com/images/M/mistral-ai-icon-logo-515008.png" alt="Mistral AI" height="40" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR71T8bAv3A6WvYQj7YYkeoayGQplecZpFOw&s" alt="OpenAI" height="40" />
   </a>
   <a href="https://deepseek.com/">
-    <img src="https://seeklogo.com/images/D/deepseek-ai-logo-611415.png" alt="DeepSeek AI" height="40" />
+    <img src="https://gimgs2.nohat.cc/thumb/f/350/deepseek-logo-png-transparent-background--3fd0d86bd1.jpg" alt="DeepSeek AI" height="40" />
   </a>
 
   <!-- Automatización -->
