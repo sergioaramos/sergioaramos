@@ -305,15 +305,20 @@
 ----
 	
 <div>
-  <p align="center">
-  <a href="https://github.com/sergioaramos/movies-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergioaramos&repo=alguna-repo-1&theme=tokyonight" alt="Repo 1" />
-  </a>
-  <a href="https://github.com/sergioaramos/chatbot-websocket">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergioaramos&repo=alguna-repo-2&theme=tokyonight" alt="Repo 2" />
-  </a>
-  <!-- Puedes seguir agregando tus repos favoritos así -->
-</p>
+	<p align="center">
+	  <a href="https://github.com/sergioaramos/movies-api">
+	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergioaramos&repo=movies-api&theme=tokyonight" alt="movies-api" />
+	  </a>
+	  <a href="https://github.com/sergioaramos/chatbot-websocket">
+	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergioaramos&repo=chatbot-websocket&theme=tokyonight" alt="chatbot-websocket" />
+	  </a>
+	  <a href="https://github.com/sergioaramos/Robocorp-level-II">
+	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergioaramos&repo=Robocorp-level-II&theme=tokyonight" alt="Robocorp-level-II" />
+	  </a>
+	  <a href="https://github.com/sergioaramos/sergioaramos">
+	    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sergioaramos&repo=sergioaramos&theme=tokyonight" alt="sergioaramos" />
+	  </a>
+	</p>
 
 </div>
 </details>
