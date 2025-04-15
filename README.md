@@ -29,26 +29,37 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> Tech & Tools I'm Exploring
 
 <p align="center">
-  <a href="https://github.com/sergioaramos">
-    <img src="https://img.icons8.com/ios-glyphs/50/github.png" alt="GitHub" />
+  <!-- Herramientas Tradicionales -->
+  <a href="https://nodejs.org/">
+    <img src="https://freebiesupply.com/wp-content/uploads/2020/11/node-js-logo.png" alt="Node.js" height="40" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/power-automate/">
-    <img src="https://img.icons8.com/color/48/microsoft-power-automate.png" alt="Power Automate" />
+  <a href="https://reactjs.org/">
+    <img src="https://www.stickpng.com/assets/images/584830f5cef1014c0b5e4aa1.png" alt="React" height="40" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://www.stickpng.com/assets/images/5848152fcef1014c0b5e4967.png" alt="Python" height="40" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://www.stickpng.com/assets/images/58481021cef1014c0b5e4923.png" alt="MySQL" height="40" />
+  </a>
+
+  <!-- Herramientas Emergentes -->
+  <a href="https://openai.com/">
+    <img src="https://www.stickpng.com/assets/images/63c5e0f2b6f1d80004c5e0f2.png" alt="OpenAI" height="40" />
+  </a>
+  <a href="https://mistral.ai/">
+    <img src="https://seeklogo.com/images/M/mistral-ai-icon-logo-515008.png" alt="Mistral AI" height="40" />
   </a>
   <a href="https://deepseek.com/">
-    <img src="https://img.icons8.com/color/48/artificial-intelligence.png" alt="AI Exploration" />
+    <img src="https://seeklogo.com/images/D/deepseek-ai-logo-611415.png" alt="DeepSeek AI" height="40" />
   </a>
-  <a href="https://platform.openai.com/">
-    <img src="https://img.icons8.com/fluency/48/openai.png" alt="OpenAI" />
+
+  <!-- Automatización -->
+  <a href="https://learn.microsoft.com/en-us/power-automate/">
+    <img src="https://seeklogo.com/images/M/microsoft-power-automate-logo-522770.png" alt="Power Automate" height="40" />
   </a>
-  <a href="https://huggingface.co/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="Hugging Face" width="48" />
-  </a>
-  <a href="https://www.framer.com/motion/">
-    <img src="https://img.icons8.com/color/48/framer-logo.png" alt="Framer Motion" />
-  </a>
-  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RWHH3C5Tbkr24iXXCWuVQq7HsVSG6560Mg&s">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RWHH3C5Tbkr24iXXCWuVQq7HsVSG6560Mg&s" alt="Hugging Face" />
+  <a href="https://playwright.dev/">
+    <img src="https://seeklogo.com/images/P/playwright-logo-435674.png" alt="Playwright" height="40" />
   </a>
 </p>
 
