@@ -34,7 +34,7 @@
     <img src="https://freebiesupply.com/wp-content/uploads/2020/11/node-js-logo.png" alt="Node.js" height="40" />
   </a>
   <a href="https://reactjs.org/">
-    <img src="https://www.stickpng.com/assets/images/584830f5cef1014c0b5e4aa1.png" alt="React" height="40" />
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="React" height="40" />
   </a>
   <a href="https://www.python.org/">
     <img src="https://www.stickpng.com/assets/images/5848152fcef1014c0b5e4967.png" alt="Python" height="40" />
